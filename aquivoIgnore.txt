@@ -1,0 +1,1 @@
+aquivoIgnore.txt  arquivo1.java  arquivo2.java	arquivo3.txt  arquivo4.txt
