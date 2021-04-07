@@ -1,4 +1,11 @@
 aquivoIgnore.txt  arquivo1.java  arquivo2.java	arquivo3.txt  arquivo4.txt
 
 AAAAA VOU COMMITAR
+
 MODIFICADO NO MASTER
+
+
+MODIFICADO NO BRANCH MELISSA
+
+
+MODIFICADO DURANTE O MERGE MANUAL
